@@ -1,4 +1,4 @@
-# 💬 iChat – Real-Time Chat Application
+# 💬 ChatApp – Real-Time Chat Application
 
 ChatApp is a simple real-time chat app built using **Node.js**, **Express**, and **Socket.IO**.  
 It allows multiple users to join, send messages, and see when others are typing – all in real time.
@@ -47,8 +47,8 @@ It allows multiple users to join, send messages, and see when others are typing 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ichat.git
-   cd ichat
+   git clone https://github.com/benbaiju/ChatApp.git
+   cd ChatApp
    ```
 
 2. **Install dependencies**
